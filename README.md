@@ -18,6 +18,7 @@ reason why companies spend huge amount in finding such type of techniques .
 
 
 PROBLEM IDENTIFICATION:
+
 Techniques , models for doing analysis on the dataset of a company are being improved
 from many years. Analysis is not new for this century, it is being done from thousand’ s
 of years back. Athough, nowadays we are very advanced in doing this comparatively,
@@ -38,6 +39,7 @@ decision which must be profitable for them. That is the reason why they always t
 implement model which is more accurate .
 
 PROPOSED SOLUTION:
+
 So , here we are trying to make a model which can predict salary using machine
 learning and we are trying to improve the accuracy . Our model can work on different
 attributes for better prediction and we are using regression for the analyzation of data
@@ -57,13 +59,19 @@ variables.
 
 Algorithm
 
-Step 1: Import the dataset 
-Step 2: Read the dataset 
+Step 1: Import the dataset
+
+Step 2: Read the dataset
+
 Step 3: Calculate the total missing in each column of dataset 
+
 Step 4: Perform Data cleaning 
+
 Step 5: Imputing Missing Values 
+
 Step 6: Data understanding through visualization (Compare every column with sales to observe which
 aspect is affecting sale of item) 
+
 Step 7: Apply different regression technique and observe the result.
 
 There are various types of regressions which are used in data science and machine
