@@ -81,10 +81,18 @@ variables. Here we are discussing some important types of regression which are g
 below:
 
 o Linear Regression
+
 o Logistic Regression
+
 o Polynomial Regression
+
 o Support Vector Regression
+
 o Decision Tree Regression
+
 o Random Forest Regression
+
 o Ridge Regression
-o Lasso Regression:
+
+o Lasso Regression
+
